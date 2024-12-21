@@ -1,4 +1,3 @@
-# Restaurant-Order-Analysis
 # Restaurant Order Analysis  
 
 Welcome to the Restaurant Order Analysis project! This repository contains a comprehensive exploration of a local restaurant's data using Python and Pandas. Our objective is to analyze menu items and order patterns to identify opportunities for streamlining operations and enhancing profitability.  
